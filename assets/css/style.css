@@ -14,7 +14,7 @@ body{
     font-size: 250%
 }
 #topleftlinks{
-    text-align:right; padding:5%; color: rgb(245, 50, 50);font-family: 'Open Sans Condensed', sans-serif; font-size: 250%
+    text-align:right; padding:5%; color: crimson;font-family: 'Open Sans Condensed', sans-serif; font-size: 250%
 }
 #pic{
 border-radius: 100%;
@@ -37,6 +37,9 @@ height: 70%;
 }
 .workpara{
     color: white;text-align: center; font-family: 'Fjalla One', sans-serif; font-size: 150%
+}
+.hyperpic{
+    color: crimson
 }
 
 
